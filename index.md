@@ -106,15 +106,15 @@ July 2021 - September 2022</p>
 
 ## Publications:
 
-<h3 style="margin-bottom:2px; color:var(--clr-a-text);"><a href="[https://www.sciencedirect.com/science/article/abs/pii/S0147957122000728](https://arxiv.org/abs/2312.01631)">Cooperative vs. Teleoperation Control of the Steady Hand Eye Robot with Adaptive Sclera Force Control: A Comparative Study</a></h3>
-<p style="margin:0;"><b>Mojtaba Esfandiari, Ji Woong Kim, Botao Zhao, Golchehr Amirkhani, Muhammad Hadi, Peter Gehlbach, Russell H. Taylor, Iulian Iordachita <i>et al</i>.</b><br>
-IEEE International Conference on Robotics and Automation.<br>
-Dec 4, 2023.<br>
-Doi: <a href="https://doi.org/10.1016/j.cimid.2022.101815">https://doi.org/10.1016/j.cimid.2022.101815</a></p>
-<ul style="margin-left: -1.4em;">
-  <li>Worked on fetching 2100+ nucleotides sequence from NCBI by its accession number using Python, Selenium and Beautifulsoup.</li>
-  <li>Worked on various utilities such as generating the heat map using Python and d3.js.</li>
-</ul>
+<h3 style="margin-bottom:2px; color:var(--clr-a-text);"><a href="https://ieeexplore.ieee.org/abstract/document/10611084">Cooperative vs. Teleoperation Control of the Steady Hand Eye Robot with Adaptive Sclera Force Control: A Comparative Study</a></h3>
+<p style="margin:0;">Mojtaba Esfandiari, Ji Woong Kim, <b>Botao Zhao</b>, Golchehr Amirkhani, Muhammad Hadi, Peter Gehlbach, Russell H. Taylor, Iulian Iordachita<br>
+IEEE International Conference on Robotics and Automation<br>
+Dec 4, 2023<br>
+
+<h3 style="margin-bottom:2px; color:var(--clr-a-text);"><a href="https://ieeexplore.ieee.org/abstract/document/10309472">Human-Robot Interaction in Retinal Surgery: A Comparative Study of Serial and Parallel Cooperative Robots</a></h3>
+<p style="margin:0;"><b>Botao Zhao</b>, Mojtaba Esfandiari, David E Usevitch, Peter Gehlbach, Iulian Iordachita<br>
+IEEE International Symposium on Robot and Human Interactive Communication<br>
+Jun 2, 2023<br>
 
 ---
 
