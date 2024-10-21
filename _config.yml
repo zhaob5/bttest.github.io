@@ -1,28 +1,30 @@
-title: Minimalistic
-logo: /images/photo_circle.jpg
+title: Botao Zhao
+logo: /images/photo_circle.png
 email: zbt19980627@gmail.com
-description: Minimalistic is a theme powered by Jekyll.
+description: Passionate Aero/Mech/Robotics Engineer
 favicon: true
+remote_theme: vaibhavvikas/jekyll-theme-minimalistic
 color-scheme: auto
 
 plugins:
-  - jekyll-sitemap
   - jekyll-seo-tag
   - jemoji
+  - jekyll-remote-theme
+  - jekyll-sitemap
 
 platforms:
+  - name: Resume
+    icon: <i class="fa-solid fa-file-lines"></i>
+    link:
   - name: GitHub
     icon: <i class="fa-brands fa-github"></i>
     link: https://github.com/zhaob5
   - name: LinkedIn
     icon: <i class="fa-brands fa-linkedin"></i>
-    link: https://www.linkedin.com/in/botao-zhao-2590b711a/
-
-navigation:
-  - name: Readme
-    link: ./README.html
-    sublist:
-      - name: Image
-        link: ./index.html#small-image
-  - name: Another Page
-    link: ./another-page.html
+    link:
+  - name: Projects
+    icon: <i class="fa-solid fa-file-code"></i>
+    link:
+  - name: Certifications
+    icon: <i class="fa-solid fa-award"></i>
+    link:
