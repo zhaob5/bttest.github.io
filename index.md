@@ -12,9 +12,14 @@ I am **Botao Zhao**, a satff engineer at Nautilus X-Ray
 <h3 style="margin-bottom:2px;">Master of Science, Robotics</h3>
 <h4 style="margin:0;">Johns Hopkins University</h4>
 Sep 2021 - May 2023\
-GPA: 3.73/4.0
+GPA: 3.65/4.0
 
-<h3 style="margin-bottom:2px;">Bachelors of Science, Aeronautical and Mechanical Engineering</h3>
+<h3 style="margin-bottom:2px;">Master of Engineering, Mechanical Engineering</h3>
+<h4 style="margin:0;">Rensselaer Polytechnic Institute</h4>
+Sep 2020 - May 2021\
+GPA: 3.7/4.0
+
+<h3 style="margin-bottom:2px;">Bachelors of Science, Aeronautical Engineering</h3>
 <h4 style="margin:0;">Rensselaer Polytechnic Institute</h4>
 Sep 2016 - May 2020\
 GPA: 3.63/4.0
@@ -23,26 +28,11 @@ GPA: 3.63/4.0
 
 ## Skills:
 
+<h4 style="margin-bottom:2px;">CAD:</h4>
+<p style="margin-bottom:4px;">&#x2022; Solidworks &#x2022; UGNX &#x2022; SoildEdge</p>
+
 <h4 style="margin-bottom:2px;">Programming Languages:</h4>
-<p style="margin-bottom:4px;">&#x2022; Python &#x2022; Java &#x2022; Go</p>
-
-<h4 style="margin-bottom:2px; margin-top:2px;">Data Science:</h4>
-<p style="margin-bottom:4px;">&#x2022; Machine Learning</p>
-
-<h4 style="margin-bottom:2px; margin-top:2px;">Frameworks:</h4>
-<p style="margin-bottom:4px;">&#x2022; Apache Airflow &#x2022; Sklearn &#x2022; Pandas &#x2022; NumPy</p>
-
-<h4 style="margin-bottom:2px; margin-top:2px;">Web Frameworks & Libraries:</h4>
-<p style="margin-bottom:4px;">&#x2022; Flask &#x2022; Spring &#x2022; Gin &#x2022; Gorm &#x2022; Angular &#x2022; Angular Material</p>
-
-<h4 style="margin-bottom:2px; margin-top:2px;">Operating Systems:</h4>
-<p style="margin-bottom:4px;">&#x2022; Windows &#x2022; Linux (Ubuntu, Red Hat) &#x2022; Mac OS</p>
-
-<h4 style="margin-bottom:2px; margin-top:2px;">Databases:</h4>
-<p style="margin-bottom:4px;">&#x2022; PostgreSQL</p>
-
-<h4 style="margin-bottom:2px; margin-top:2px;">Others:</h4>
-<p style="margin-bottom:20px;">&#x2022; Git &#x2022; GitLab &#x2022; Github &#x2022; CI/CD &#x2022; Redis &#x2022; Docker</p>
+<p style="margin-bottom:4px;">&#x2022; Matlab &#x2022; Python &#x2022; C &#x2022; C++</p>
 
 ---
 
@@ -63,27 +53,6 @@ July 2021 - September 2022</p>
   <li>Worked on CCAR on various Python Risk Models like CMM (Commercial Mortgage Metrics) and, their workflow implementation via Apache Airflow.</li>
   <li>Worked on Data Extractor to create templates and further extract the data from the database using Python, Flask, and Angular.</li>
   <li>Involved in company's private tools for CI/CD, application monitoring, error logging, and server deployment.</li>
-</ul>
-
----
-  
-## Internships:
-
-<h3 style="margin-bottom:2px;">BNY Mellon Technology Pvt. Ltd.</h3>
-<p style="margin:0;"><b>Software Developer Intern</b><br>
-Jan 2021 - June 2021</p>
-<ul style="margin-left: -1.4em;">
-  <li>Worked on CCAR Dashboard to design the end-to-end flow of Model Execution from the UI using Angular.</li>
-  <li>Worked on creating Microservices using Flask to get various model details and trigger its execution.</li>
-  <li>Worked in different deployment environments (Dev, UAT, Prod).</li>
-</ul>  
-  
-<h3 style="margin-bottom:2px;">BNY Mellon Technology Pvt. Ltd.</h3>
-<p style="margin:0;"><b>Software Developer Intern</b><br>
-May 2020 - July 2020</p>
-<ul style="margin-left: -1.4em;">
-  <li>Worked on Cognitive Agent to automate various employee related tasks with RASA framework in Python.</li>
-  <li>Worked on UI in Angular and Microservices using Java Spring Boot to process the requests.</li>
 </ul>
 
 ---
