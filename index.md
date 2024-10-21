@@ -108,13 +108,13 @@ July 2021 - September 2022</p>
 
 <h3 style="margin-bottom:2px; color:var(--clr-a-text);"><a href="https://ieeexplore.ieee.org/abstract/document/10611084">Cooperative vs. Teleoperation Control of the Steady Hand Eye Robot with Adaptive Sclera Force Control: A Comparative Study</a></h3>
 <p style="margin:0;">Mojtaba Esfandiari, Ji Woong Kim, <b>Botao Zhao</b>, Golchehr Amirkhani, Muhammad Hadi, Peter Gehlbach, Russell H. Taylor, Iulian Iordachita<br>
-IEEE International Conference on Robotics and Automation<br>
+<b>IEEE International Conference on Robotics and Automation</b><br>
 Dec 4, 2023<br>
 
 <h3 style="margin-bottom:2px; color:var(--clr-a-text);"><a href="https://ieeexplore.ieee.org/abstract/document/10309472">Human-Robot Interaction in Retinal Surgery: A Comparative Study of Serial and Parallel Cooperative Robots</a></h3>
 <p style="margin:0;"><b>Botao Zhao</b>, Mojtaba Esfandiari, David E Usevitch, Peter Gehlbach, Iulian Iordachita<br>
-IEEE International Symposium on Robot and Human Interactive Communication<br>
-Jun 2, 2023<br>
+<b>IEEE International Symposium on Robot and Human Interactive Communication</b><br>
+Jun 2, 2023
 
 ---
 
