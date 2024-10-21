@@ -13,14 +13,14 @@ plugins:
 platforms:
   - name: GitHub
     icon: <i class="fa-brands fa-github"></i>
-    link: https://github.com/vaibhavvikas
+    link: https://github.com/zhaob5
   - name: LinkedIn
     icon: <i class="fa-brands fa-linkedin"></i>
-    link: https://www.linkedin.com/in/vaibhavvikas
+    link: https://www.linkedin.com/in/botao-zhao-2590b711a/
 
 navigation:
   - name: Readme
-    link: ./index.html
+    link: ./README.html
     sublist:
       - name: Image
         link: ./index.html#small-image
