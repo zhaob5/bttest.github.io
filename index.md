@@ -87,17 +87,16 @@ July 2021 - September 2022</p>
 ## Certifications:
 
 <div class="card">
-  <h3>Google Go Specialization</h3>
-  <p><b>Coursera</b>, October 2022<br>
-  Credential Id: XPZSRCAJNPX2</p>
-  <a href="https://www.coursera.org/account/accomplishments/specialization/XPZSRCAJNPX2"><span class="card-link-spanner"></span></a>
+  <h3>Responsible Conduct of Research for Engineers</h3>
+  <p><b>CITI Program</b>, Aug 2022<br>
+  Credential Id: 50812594</p>
+  <a href="https://www.citiprogram.org/verify/?wf530ee0a-0814-4915-9442-76889defe9c9-50812594"><span class="card-link-spanner"></span></a>
 </div>
 
 <div class="card">
-  <h3>Python Specialization</h3>
-  <p><b>Coursera</b>, August 2020<br>
-  Credential Id: 5JHL6J6K4EKL</p>
-  <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/5JHL6J6K4EKL"><span class="card-link-spanner"></span></a>
+  <h3>SOLIDWORKS Advanced Part Design</h3>
+  <p><b>SolidProfessor</b>, Jan 2024<br></p>
+  <a href="https://plt.solidprofessor.com/certificates/2f91a8de-c822-4b25-ba9e-da4bd174363f"><span class="card-link-spanner"></span></a>
 </div>
 
 [... See all certifications](./certifications)
@@ -109,12 +108,12 @@ July 2021 - September 2022</p>
 <h3 style="margin-bottom:2px; color:var(--clr-a-text);"><a href="https://ieeexplore.ieee.org/abstract/document/10611084">Cooperative vs. Teleoperation Control of the Steady Hand Eye Robot with Adaptive Sclera Force Control: A Comparative Study</a></h3>
 <p style="margin:0;">Mojtaba Esfandiari, Ji Woong Kim, <b>Botao Zhao</b>, Golchehr Amirkhani, Muhammad Hadi, Peter Gehlbach, Russell H. Taylor, Iulian Iordachita<br>
 <b>IEEE International Conference on Robotics and Automation</b><br>
-Dec 4, 2023<br>
+Dec 4, 2023<br></p>
 
 <h3 style="margin-bottom:2px; color:var(--clr-a-text);"><a href="https://ieeexplore.ieee.org/abstract/document/10309472">Human-Robot Interaction in Retinal Surgery: A Comparative Study of Serial and Parallel Cooperative Robots</a></h3>
 <p style="margin:0;"><b>Botao Zhao</b>, Mojtaba Esfandiari, David E Usevitch, Peter Gehlbach, Iulian Iordachita<br>
 <b>IEEE International Symposium on Robot and Human Interactive Communication</b><br>
-Jun 2, 2023
+Jun 2, 2023<br></p>
 
 ---
 
