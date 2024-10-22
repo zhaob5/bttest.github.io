@@ -87,19 +87,25 @@ July 2021 - September 2022</p>
 ## Certifications:
 
 <div class="card">
+  <h3>SOLIDWORKS Advanced Part Design</h3>
+  <p><b>SolidProfessor</b>, Jan 2024<br>
+  Credential Id: 2f91a8de-c822-4b25-ba9e-da4bd174363f</p>
+  <a href="https://plt.solidprofessor.com/certificates/2f91a8de-c822-4b25-ba9e-da4bd174363f"><span class="card-link-spanner"></span></a>
+</div>
+
+<div class="card">
+  <h3>Design for Additive Manufacturing</h3>
+  <p><b>SolidProfessor</b>, Jan 2024<br>
+  Credential Id: 0fdc6f94-26dd-469d-911c-8e2dfe3cd046</p>
+  <a href="https://plt.solidprofessor.com/certificates/2f91a8de-c822-4b25-ba9e-da4bd174363f"><span class="card-link-spanner"></span></a>
+</div>
+
+<div class="card">
   <h3>Responsible Conduct of Research for Engineers</h3>
   <p><b>CITI Program</b>, Aug 2022<br>
   Credential Id: 50812594</p>
   <a href="https://www.citiprogram.org/verify/?wf530ee0a-0814-4915-9442-76889defe9c9-50812594"><span class="card-link-spanner"></span></a>
 </div>
-
-<div class="card">
-  <h3>SOLIDWORKS Advanced Part Design</h3>
-  <p><b>SolidProfessor</b>, Jan 2024<br></p>
-  <a href="https://plt.solidprofessor.com/certificates/2f91a8de-c822-4b25-ba9e-da4bd174363f"><span class="card-link-spanner"></span></a>
-</div>
-
-[... See all certifications](./certifications)
 
 ---
 
