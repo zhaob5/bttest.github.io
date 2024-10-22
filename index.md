@@ -3,7 +3,7 @@ layout: default
 ---
 ## About Me:
 
-I am **Botao Zhao**, a satff engineer at Nautilus X-Ray
+I am **Botao Zhao**, a staff engineer at Nautilus X-Ray
 
 ---
 
@@ -28,31 +28,36 @@ GPA: 3.63/4.0
 
 ## Skills:
 
-<h4 style="margin-bottom:2px;">CAD:</h4>
-<p style="margin-bottom:4px;">&#x2022; Solidworks &#x2022; UGNX &#x2022; SoildEdge</p>
+<h4 style="margin-bottom:2px;">CAD/CAM:</h4>
+<p style="margin-bottom:4px;">&#x2022; SolidWorks &#x2022; Siemens NX &#x2022; Soild Edge</p>
 
-<h4 style="margin-bottom:2px;">Programming Languages:</h4>
+<h4 style="margin-bottom:2px;">Programming:</h4>
 <p style="margin-bottom:4px;">&#x2022; Matlab &#x2022; Python &#x2022; C &#x2022; C++</p>
+
+<h4 style="margin-bottom:2px;">FEA/CFD:</h4>
+<p style="margin-bottom:4px;">&#x2022; SolidWorks Simulation &#x2022; NX CAE</p>
 
 ---
 
-## Professional Experience:
+## Work Experience:
 
-<h3 style="margin-bottom:2px;">Open Financial Technologies Pvt. Ltd.</h3>
-<p style="margin:0;"><b>Software Developer Engineer</b><br>
-September 2022 - Present</p>
+<h3 style="margin-bottom:2px;">Naitilus X-Ray</h3>
+<p style="margin:0;"><b>Staff Engineer</b><br>
+Jul 2023 - Present</p>
 <ul style="margin-left: -1.4em;">
-  <li>Currently developing embedded finance solutions on Cards, KYC, and Lending Microservices using Go, Gin, and Gorm for <a href="https://www.zwitch.io/">Zwitch</a>, a cutting-edge no-code fintech platform.</li>
-  <li>Owned and developed the Cards Microservices, overseeing all APIs related to credit, debit and prepaid cards creation, activation, blocking/unblocking, transactions, reversals, and settlements.</li>
+  <li>CT Frame Mobile Base.</li>
+  <li>Dynamic Balancing System.</li>
+  <li>Magnetic Field Mapping System.</li>
+  <li>Dectector Frame.</li>
 </ul>
 
-<h3 style="margin-bottom:2px;">BNY Mellon Technology Pvt. Ltd.</h3>
-<p style="margin:0;"><b>Associate Software Developer</b><br>
-July 2021 - September 2022</p>
+<h3 style="margin-bottom:2px;">Elekta Medical Systems</h3>
+<p style="margin:0;"><b>Mechanical Engineering Intern</b><br>
+May 2019 - Aug 2019</p>
 <ul style="margin-left: -1.4em;">
-  <li>Worked on CCAR on various Python Risk Models like CMM (Commercial Mortgage Metrics) and, their workflow implementation via Apache Airflow.</li>
-  <li>Worked on Data Extractor to create templates and further extract the data from the database using Python, Flask, and Angular.</li>
-  <li>Involved in company's private tools for CI/CD, application monitoring, error logging, and server deployment.</li>
+  <li>Completed the unit and material standards conversion (British standards to Chinese GB standards) of the general assembly drawing using Solid Edge.</li>
+  <li>Designed the interconnecting parts and performed FEA testing for VALUE LINAC - a new linear accelerator designed for operating external beam radiation treatments.</li>
+  <li>Performed English-to-Chinese and Chinese-to-English translation and interpretation during corporate meetings and live speaking presentations.</li>
 </ul>
 
 ---
@@ -60,24 +65,24 @@ July 2021 - September 2022</p>
 ## Projects:
 
 <div class="card">
-  <h3>Housing Price Prediction</h3>
+  <h3>Scaled Model for Dynamic Balancing</h3>
   <p><b>Python and Machine Learning</b></p>
   <ul>
-    <li>A machine learning project based on Kaggle Housing Price Prediction competition using XGBoost. Got a score of 14997.</li>
-    <li>The project has all the steps including Preprocessing which fixes missing data and categorical data, and Pipeline which streamlines the process in a single step from fitting and predicting the data.</li>
+    <li></li>
+    <li></li>
   </ul>
-  <a href="https://vaibhavvikas.ml/housing-price-predictor/"><span class="card-link-spanner"></span></a>
+  <a href=""><span class="card-link-spanner"></span></a>
 </div>
 
 <div class="card">
-  <h3>Distributed Cloud (KLA+ Hackathon'20)</h3>
-  <p><b>Python and Flask</b></p>
+  <h3>Multipurpose Cartesian Robot</h3>
+  <p><b>Python, GRBL</b></p>
   <ul>
-    <li>A distributed cloud storage like google drive using Flask, where user can store and retrieve any files.</li>
-    <li>All files are chunked based on the json provided and stored in servers with load balancing.</li>
-    <li>End to End Encryption on chunks to provide extra security.</li>
+    <li></li>
+    <li></li>
+    <li></li>
   </ul>
-  <a href="https://vaibhavvikas.ml/distributed-cloud"><span class="card-link-spanner"></span></a>
+  <a href=""><span class="card-link-spanner"></span></a>
 </div>
 
 [... See all projects](./projects)
