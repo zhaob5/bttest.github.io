@@ -37,11 +37,14 @@ GPA: 3.63/4.0
 <h4 style="margin-bottom:2px;">FEA/CFD:</h4>
 <p style="margin-bottom:4px;">&#x2022; SolidWorks Simulation &#x2022; NX CAE</p>
 
+<h4 style="margin-bottom:2px;">Robotics & Control:</h4>
+<p style="margin-bottom:4px;">&#x2022; ROS &#x2022; Arduino &#x2022; Matlab Simulink</p>
+
 ---
 
 ## Work Experience:
 
-<h3 style="margin-bottom:2px;">Naitilus X-Ray</h3>
+<h3 style="margin-bottom:2px;">Nautilus X-Ray</h3>
 <p style="margin:0;"><b>Staff Engineer</b><br>
 Jul 2023 - Present</p>
 <ul style="margin-left: -1.4em;">
@@ -49,6 +52,26 @@ Jul 2023 - Present</p>
   <li>Dynamic Balancing System.</li>
   <li>Magnetic Field Mapping System.</li>
   <li>Dectector Frame.</li>
+</ul>
+
+<h3 style="margin-bottom:2px;">Elekta Medical Systems</h3>
+<p style="margin:0;"><b>Mechanical Engineering Intern</b><br>
+May 2019 - Aug 2019</p>
+<ul style="margin-left: -1.4em;">
+  <li>Completed the unit and material standards conversion (British standards to Chinese GB standards) of the general assembly drawing using Solid Edge.</li>
+  <li>Designed the interconnecting parts and performed FEA testing for VALUE LINAC - a new linear accelerator designed for operating external beam radiation treatments.</li>
+  <li>Performed English-to-Chinese and Chinese-to-English translation and interpretation during corporate meetings and live speaking presentations.</li>
+</ul>
+
+---
+
+## Research Experience:
+
+<h3 style="margin-bottom:2px;">Advanced Medical Instrumentation and Robotics Research Lab, JHU</h3>
+<p style="margin:0;"><b>Graduate Research Assistant </b><br>
+Jul 2021 - May 2023</p>
+<ul style="margin-left: -1.4em;">
+  <li>Designed and conducted a comparative study between two cooperative-control robots by analyzing the user’s hand-to-tool interaction force/torque and the robot’s tool-to-eye interaction force based on learning curve theory and cumulative sum chart.</li>
 </ul>
 
 <h3 style="margin-bottom:2px;">Elekta Medical Systems</h3>
@@ -127,5 +150,3 @@ Dec 4, 2023
 Jun 2, 2023
 
 ---
-
-## Achievements:
